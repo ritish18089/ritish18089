@@ -31,6 +31,9 @@ Contact Me 👉 📞 +91 9019854584
 # Experience
 <img src="https://github.com/ritish18089/ritish18089/blob/master/jfsi.png" width="100px" height="100px">   <img src="https://github.com/ritish18089/ritish18089/blob/master/sddi.png" width="100px" height="100px">   <img src="https://github.com/ritish18089/ritish18089/blob/master/sdi.png" width="100px" height="100px">   <img src="https://github.com/ritish18089/ritish18089/blob/master/aimli.png" width="100px" height="100px">   <img src="https://github.com/ritish18089/ritish18089/blob/master/dai.png" width="100px" height="100px">   <img src="https://github.com/ritish18089/ritish18089/blob/master/wddi.png" width="100px" height="100px">   <img src="https://github.com/ritish18089/ritish18089/blob/master/fdi.png" width="100px" height="100px"> 
 
+# Certification
+<img src="https://github.com/ritish18089/ritish18089/blob/master/orc.png" height="100px" width="100px">   <img src="https://github.com/ritish18089/ritish18089/blob/master/ibmc.png" height="100px" width="100px">   <img src="https://github.com/ritish18089/ritish18089/blob/master/b10c.png" height="100px" width="100px">
+
 # Career Interests
 <img src="https://github.com/ritish18089/ritish18089/blob/master/seen.png" width="100px" height="100px">   <img src="https://github.com/ritish18089/ritish18089/blob/master/Javad.png" width="100px" height="100px">   <img src="https://github.com/ritish18089/ritish18089/blob/master/javaf.png" width="100px" height="100px">   <img src="https://github.com/ritish18089/ritish18089/blob/master/webd.png" width="100px" height="100px">   <img src="https://github.com/ritish18089/ritish18089/blob/master/ddddddddd.png" width="100px" height="100px">
 
@@ -44,8 +47,6 @@ Contact Me 👉 📞 +91 9019854584
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Social Media -->
 <h3 align="left">Connect with me:</h3>
@@ -55,5 +56,10 @@ Contact Me 👉 📞 +91 9019854584
 <a href="https://www.instagram.com/ritish1808/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="RajeshReddy" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ritish.k.7/" target="_blank"><img align="center" src="https://github.com/ritish18089/ritish18089/blob/master/facebook.webp" alt="RajeshReddy" height="30" width="40" /></a>
 </p>
+
+### ✍️ Random Dev Quote
+<p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"></p>
+
+
 
 

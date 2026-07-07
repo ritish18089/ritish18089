@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="AWS Community Builder" src="https://github.com/user-attachments/assets/d03f9ae6-0c01-43ab-9eac-a1c9fc323677" />
+<img width="1584" height="396" alt="AWS Community Builder" src="https://github.com/ritish18089/ritish18089/blob/master/ritish11111.png" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritish18089&label=Profile%20views&color=0e75b6&style=flat" alt="alamimran613" /> </p>
 

@@ -1,6 +1,6 @@
 <img width="1584" height="396" alt="AWS Community Builder" src="https://github.com/ritish18089/ritish18089/blob/master/ritish11111.png" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritish18089&label=Profile%20views&color=0e75b6&style=flat" alt="alamimran613" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritish18089&label=Profile%20views&color=0e75b6&style=flat" alt="ritish18098" /> </p>
 
 # 💫 Hi 👋, I'm Ritish Kannur
 **A passionate Java Full-Stack Developer | React.js | Spring Boot | MySQL | Building responsive and scalable web applications 🚀**
@@ -8,7 +8,7 @@
 Email Me 👉 ✉️ **kannurritish@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 <!-- Programmer GIF -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/ritish18089/ritish18089/blob/master/ezgif.com-gif-maker.gif">
 
 - 🌱 I’m currently learning **DevOps**
 

@@ -34,7 +34,7 @@ Contact Me 👉 📞 +91 9019854584
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.shion.dev/api?username=ritish18089&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://streak-stats.demolab.com/?user=ritish18089&theme=github_dark&hide_border=false)
+<img src="https://streak-stats.demolab.com/?user=ritish18089&theme=github_dark&hide_border=false" width="400px" height="400px">
 <p align="center"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ritish18089&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"></p>
 
 <!-- Snake Game Repo View -->
